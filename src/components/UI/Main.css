@@ -1,0 +1,85 @@
+.content {
+  border-top: 0.4px solid #fff2e7;
+  margin-bottom: 48px;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.main-content div {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+.main-content h1 {
+  color: #fff2e7;
+  font-family: "Righteous", cursive;
+  font-size: 3em;
+  font-weight: 400;
+}
+
+.main-content h2 {
+  font-family: "Sarala", sans-serif;
+  color: #ecd6c4;
+  font-weight: 400;
+  font-size: 1.5em;
+}
+ /*
+.conteudo-principal button {
+  font-family: "Sarala", sans-serif;
+  font-weight: 400;
+  font-size: 1.5em;
+  width: 273px;
+  border-radius: 20px;
+  border: none;
+  height: 2.56em;
+  color: #2f2325;
+  transition: 0.2s;
+  background-color: #ecd6c4;
+  cursor: pointer;
+  box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+}
+
+.conteudo-principal button:hover {
+  color: #ecd6c4;
+  background-color: #2f2325;
+}
+*/
+
+.secondary-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 48px;
+  gap: 1.5em;
+  padding-bottom: 30px;
+}
+
+.secondary-content h3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #FFF2E7;
+  font-family: 'Righteous', cursive;
+  font-weight: 400;
+  border-top: 0.4px solid #FFF2E7;
+  padding-top: 48px;
+  margin-bottom: 1.5em;
+}
+
+.secondary-content p{
+    font-family: "Sarala", sans-serif;
+    color: #ECD6C4;
+    font-weight: 400;
+}
+
+.secondary-content span{
+    font-weight: 700;
+}
+
+
