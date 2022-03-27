@@ -1,3 +1,6 @@
+# Project Vídeo https://www.youtube.com/watch?v=llF6vD-RljE&t=3337s
+# Figma https://www.figma.com/file/myqP66iQwzjwjrIAJyyrip/BalleBot?node-id=2%3A2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
