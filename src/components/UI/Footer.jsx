@@ -1,7 +1,7 @@
 import balleriniLogo from "../../img/ballerini.svg";
 import "./Footer.css"
 
-const Footer = ({ children }) => {
+const Footer = () => {
   return (
     <footer className="footer">
       <img src={balleriniLogo} alt="Logo ballerini" />
